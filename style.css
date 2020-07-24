@@ -1,0 +1,40 @@
+.Container{
+    background-color: lightgrey;
+}
+#input{
+    width: 300px;
+    margin: 10px auto;
+    border: 2px solid green;
+    height: 30px;
+    text-align: center;
+}
+.contents{
+    width: 70%;
+    margin: 10px auto;
+    text-align: center;
+}
+.contents button{
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    background-color: grey;
+    border: none;
+}
+button:hover{
+    width: 200px;
+    background-color: lightgrey;
+}
+.contents ul li{
+    list-style: none;
+}
+.red{
+    color: red;
+}
+.orange{
+    color: orange;
+}
+.Items{
+    text-align: center;
+    color: orange;
+}
